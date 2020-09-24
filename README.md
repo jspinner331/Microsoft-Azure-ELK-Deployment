@@ -11,9 +11,7 @@ First, a "**Jump Box**" virtual machine is configured so that we can provision e
 ----
 ## Setup
 
-Azure initial configuration info under *Setup* folder.
-
-Virtual Machines:
+**Virtual Machines**:
 1. Workstation 
     - shh-keygen, copy public key to JumpBox VM instance.
 2. JumpBox - login via ssh from Workstation.  
