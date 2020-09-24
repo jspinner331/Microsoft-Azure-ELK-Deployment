@@ -2,7 +2,7 @@
 
 Setting up an ELK stack through Microsoft Azure to monitor 2 web virtual machines (DVWA) backed by a load balancer.
 
-First, a "**Jump Box**" virtual machine is configured so that we can provision each VM instance and use Ansible/Docker for the Web and ELK VMs. The **Jump Box** acts as a secure gateway so that there is seperation between the main workstation and our deployed Web/ELK virtual machines we are provisioning.  Once the Web1, Web2, and ELK machines are up, we can connect to/monitor the ELK VM using Kibana from the workstation machine.  Refer to detailed setup instructions under the Setup folder.
+First, a "**Jump Box**" virtual machine is configured so that we can provision each VM instance and use Ansible/Docker for the Web and ELK VMs. The **Jump Box** acts as a secure gateway so that there is seperation between the main workstation and our deployed Web/ELK virtual machines we are provisioning.  Once the Web1, Web2, and ELK machines are up, we use Kibana to monitor our ELK instance from the workstation machine browser.  Refer to the detailed setup instructions under the Setup folder.
 
 # Network Diagram
 
