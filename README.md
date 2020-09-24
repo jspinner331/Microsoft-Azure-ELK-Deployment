@@ -6,7 +6,7 @@ First, a "**Jump Box**" virtual machine is configured so that we can provision e
 
 # Network Diagram
 
-![ELK Network Diagram](Setup/Images/ELK-Network-Diagram.png)
+![ELK Network Diagram](Setup/Images/ELK-Network-Diagram2.png)
 
 ----
 ## Setup
